@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="HelloApplication" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="com.example.java_29_comparsa_di_nuova_scritta_tramite_bottone.HelloApplication" />
+    <module name="java_29_comparsa_di_nuova_scritta_tramite_bottone" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
